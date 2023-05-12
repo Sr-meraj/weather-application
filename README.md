@@ -19,7 +19,7 @@ A simple weather application built using HTML, CSS, and JavaScript that allows u
    - The date and time of the user's current location will be displayed at the top of the application.
 
    
-##Installation
+## Installation
 
 To run the application locally, follow these steps:
 
@@ -50,12 +50,12 @@ Start the server
   npm run start
 ```
 
-Alternatively, you can view the deployed application [here]('https://github.com/Sr-meraj/weather-application').
+Alternatively, you can view the deployed application [here](https://github.com/Sr-meraj/weather-application).
 
 ## API Used
 
-This application uses the [Visual Crossing Weather API]('https://www.visualcrossing.com/weather-api') to fetch weather data for a given location.
+This application uses the [Visual Crossing Weather API](https://www.visualcrossing.com/weather-api) to fetch weather data for a given location.
 
 ## Credits
 
-This application was built by [SR.Meraj]('https://github.com/Sr-meraj/').
+This application was built by [SR.Meraj](https://github.com/Sr-meraj/).

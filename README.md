@@ -1,4 +1,4 @@
-# weather-application
+# ☁️ weather-application ☁️
 
 A simple weather application built using HTML, CSS, and JavaScript that allows users to check the current weather and forecast for a given location.
 

@@ -9,7 +9,6 @@ A simple weather application built using HTML, CSS, and JavaScript that allows u
    - Get hourly or weekly weather forecast data for a given location
    - Change the background image of the application based on the weather condition
    - Display the date and time of the user's current location
-   - Responsive design that works on desktop and mobile devices
 
 ## Usage
    - Enter the name of a city or town in the search box and click on the "Search" button.
